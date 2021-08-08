@@ -1,6 +1,6 @@
 # Anonymous-Writer
 
-If you are as lazy as me in writing assignments.Then this is the perfect tool for you .
+If you have a looot of homework and less time to complete it, then this is the perfect tool for you .
 
 It converts page from digital text to any given handwriting font you like. Isn't it awesome.
 
