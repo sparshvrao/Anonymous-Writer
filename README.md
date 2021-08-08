@@ -4,7 +4,7 @@ If you have a looot of homework and less time to complete it, then this is the p
 
 It converts page from digital text to any given handwriting font you like. Isn't it awesome.
 
-So use this and use your precious saved time in enjoying life.
+So use this and use your precious saved time in learning new stuff.
 
 ## How to use ?
 
